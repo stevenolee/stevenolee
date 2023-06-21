@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stevenolee
-- 👀 I’m interested in software engineering roles (front-end)
+- 👀 I’m interested in software engineering roles
 - 📫 LinkedIn @https://www.linkedin.com/in/steven-lee-/
 
 <!---
